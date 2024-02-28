@@ -1,5 +1,5 @@
 # Air_Quality_Monitoring
-##TP1 - Air Quality Monitoring (airborne particulate matter)
+## TP1 - Air Quality Monitoring (airborne particulate matter)
 
 The goal of this project is to analyze data provided by a set of air quality sensors. The sensors present in the dataset are located in Portugal. Each sensor provides two values: measuring particles less than 10 µm (P1) in μg/m³.
 
